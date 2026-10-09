@@ -1,0 +1,41 @@
+{
+    "Novice Rod": { "name": "Novice Rod", 
+        "desc": "This rod is free. if you see this, something is wrong.",
+        "img": "Novice Rod locked.png" }      
+    ,
+    "Cool Rod":
+        { "name": "Cool Rod", 
+        "desc": "Unlock by getting 5 total caught fish.",
+        "img": "Cool Rod locked.png" }
+    ,
+    "RU Sure Rod":
+        { "name": "RU Sure Rod", 
+        "desc": "Unlock by getting 10 catching streaks.",
+        "img": "RU Sure Rod locked.png" }
+    ,
+    "Shear Rod":
+        { "name": "Shear Rod", 
+        "desc": "Unlock by getting 45 total caught fish.",
+        "img": "Shear Rod locked.png" }
+    ,
+    "Anchor Rod": 
+        { "name": "Anchor Rod", 
+        "desc": "Unlock by getting 5 total Perfect Catches.",
+        "img": "Anchor Rod locked.png" }
+    ,
+    "Prismatic Rod":
+        { "name": "Prismatic Rod", 
+        "desc": "Unlock by caught all Legendary fish.",
+        "img": "Prismatic Rod locked.png" }
+    ,
+    "Rod of the Conqueror":
+        { "name": "Rod of the Conqueror", 
+        "desc": "Unlock by having 100% bestiary completion.",
+        "img": "Rod of the Conqueror locked.png" }
+    ,
+    "Meme Rod" : 
+        { "name": "Meme Rod", 
+        "desc": "Unlock by caught the secret fish.",
+        "img": "Meme Rod locked.png" }
+    
+}

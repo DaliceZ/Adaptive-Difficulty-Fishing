@@ -1,0 +1,62 @@
+{
+    "Common":[
+        { "fish_id": 1, "name": "Mackerel", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.8, "PROGRESS_SPD": 0, "desc": "A fast-moving fish commonly found in coastal waters", "img": "Mackerel.png" },
+        { "fish_id": 2, "name": "Sardine", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.85, "PROGRESS_SPD": 0, "desc": "Small and abundant fish found in schools", "img": "Sardine.png" },
+        { "fish_id": 3, "name": "Sea Bass", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.8, "PROGRESS_SPD": 0.2, "desc": "A moderately strong fish with good fighting ability", "img": "Sea Bass.png" },
+        { "fish_id": 4, "name": "Shrimp", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.85, "PROGRESS_SPD": 0, "desc": "A small crustacean often used as bait", "img": "Shrimp.png" },
+        { "fish_id": 5, "name": "Haddock", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.8, "PROGRESS_SPD": 0, "desc": "A versatile white fish commonly caught commercially", "img": "Haddock.png" },
+        { "fish_id": 6, "name": "Mullet", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.8, "PROGRESS_SPD": 0, "desc": "A hardy bottom-feeder found in many waters", "img": "Mullet.png" },
+        { "fish_id": 7, "name": "Sea Star", "rarity": "Common", 
+            "FISH_RESILIENCE": 0.8, "PROGRESS_SPD": 0, "desc": "A curious starfish of the sea", "img": "Sea Star.png" }
+    ],
+    "Uncommon":[
+        { "fish_id": 1, "name": "Cod", "rarity": "Uncommon", 
+            "FISH_RESILIENCE": 0.7, "PROGRESS_SPD": 0, "desc": "A strong and resilient deep-sea fish", "img": "Cod.png" },
+        { "fish_id": 2, "name": "Crab", "rarity": "Uncommon", 
+            "FISH_RESILIENCE": 0.75, "PROGRESS_SPD": 0.1, "desc": "A tough crustacean with powerful claws", "img": "Crab.png" },
+        { "fish_id": 3, "name": "Chinook Salmon", "rarity": "Uncommon", 
+            "FISH_RESILIENCE": 0.7, "PROGRESS_SPD": 0, "desc": "A prized fish known for its strength and migration", "img": "Chinook Salmon.png" },
+        { "fish_id": 4, "name": "Amberjack", "rarity": "Uncommon",
+            "FISH_RESILIENCE": 0.7, "PROGRESS_SPD": 0, "desc": "A powerful game fish with excellent fighting spirit", "img": "Amberjack.png" },
+        { "fish_id": 5, "name": "Clownfish", "rarity": "Uncommon", 
+            "FISH_RESILIENCE": 0.75, "PROGRESS_SPD": 0, "desc": "A colorful tropical fish with distinctive patterns", "img": "Clownfish.png" }
+    ],
+    "Rare":[
+        { "fish_id": 1, "name": "Bluefin Tuna", "rarity": "Rare", 
+            "FISH_RESILIENCE": 0.65, "PROGRESS_SPD": 0, "desc": "An incredibly fast and powerful predator of the ocean", "img": "Bluefin Tuna.png" },
+        { "fish_id": 2, "name": "Pufferfish", "rarity": "Rare", 
+            "FISH_RESILIENCE": 0.65, "PROGRESS_SPD": 0, "desc": "A dangerous fish that inflates when threatened", "img": "Pufferfish.png" },
+        { "fish_id": 3, "name": "Octopus", "rarity": "Rare", 
+            "FISH_RESILIENCE": 0.6, "PROGRESS_SPD": 0, "desc": "An intelligent cephalopod master of camouflage", "img": "Octopus.png" },
+        { "fish_id": 4, "name": "Giant Trevally", "rarity": "Rare", 
+            "FISH_RESILIENCE": -0.1, "PROGRESS_SPD": -0.1, "desc": "An extremely challenging fish that actively resists capture", "img": "Giant Trevally.png" }
+    ],
+    "Legendary":[
+        { "fish_id": 1, "name": "Great White Shark", "rarity": "Legendary", 
+            "FISH_RESILIENCE": -0.4, "PROGRESS_SPD": -0.45, "desc": "The apex predator of the seas - nearly impossible to land", "img": "Great White Shark.png" },
+        { "fish_id": 2, "name": "Flying Fish", "rarity": "Legendary", 
+            "FISH_RESILIENCE": -0.15, "PROGRESS_SPD": -0.2, "desc": "A mysterious fish that soars through the air", "img": "Flying Fish.png" },
+        { "fish_id": 3, "name": "Sea Turtle", "rarity": "Legendary", 
+            "FISH_RESILIENCE": 0.1, "PROGRESS_SPD": 0, "desc": "An ancient and majestic creature of the ocean", "img": "Sea Turtle.png" },
+        { "fish_id": 4, "name": "Barracuda", "rarity": "Legendary", 
+            "FISH_RESILIENCE": -0.3, "PROGRESS_SPD": -0.35, "desc": "A ferocious predator with incredible speed and aggression", "img": "Barracuda.png" }
+    ],
+    "Mythical":[
+        { "fish_id": 1, "name": "Colossal Squid", "rarity": "Mythical", 
+            "FISH_RESILIENCE": -0.75, "PROGRESS_SPD": -0.75, "desc": "A legendary deep-sea monster of unimaginable power", "img": "Colossal Squid.png" },
+        { "fish_id": 2, "name": "Orca", "rarity": "Mythical", 
+            "FISH_RESILIENCE": -0.75, "PROGRESS_SPD": -0.8, "desc": "The killer whale - apex predator and nearly unstoppable", "img": "Orca.png" },
+        { "fish_id": 3, "name": "Blue Whale", "rarity": "Mythical", 
+            "FISH_RESILIENCE": -0.7, "PROGRESS_SPD": -0.85, "desc": "The largest creature ever to exist - an impossible catch", "img": "Blue Whale.png" }
+    ],
+    "Meme":[
+        { "fish_id": 1, "name": "Meme Fish", "rarity": "Meme", 
+            "FISH_RESILIENCE": -0.5, "PROGRESS_SPD": 0, "desc": "A mysterious and hilarious fish from another dimension", "img": "Meme Fish.png" }
+    ]
+}

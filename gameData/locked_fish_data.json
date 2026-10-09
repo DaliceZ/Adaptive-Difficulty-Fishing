@@ -1,0 +1,122 @@
+{
+    "Mackerel": {
+        "name": "Mackerel",
+        "desc": "A rounded and torpedo-shaped fish with a slender, keeled tail.",
+        "img": "Mackerel_locked.png"
+    },
+    "Sardine": {
+        "name": "Sardine",
+        "desc": "A silver coloration fish with darker back, single dorsal fin",
+        "img": "Sardine_locked.png"
+    },
+    "Sea Bass": {
+        "name": "Sea Bass",
+        "desc": "A sleek predatory fish with sharp spines along its dorsal fin.",
+        "img": "Sea_Bass_locked.png"
+    },
+    "Shrimp": {
+        "name": "Shrimp",
+        "desc": "A small translucent crustacean with a curved body.",
+        "img": "Shrimp_locked.png"
+    },
+    "Haddock": {
+        "name": "Haddock",
+        "desc": "A white fish with a distinctive dark spot above its pectoral fin.",
+        "img": "Haddock_locked.png"
+    },
+    "Mullet": {
+        "name": "Mullet",
+        "desc": "A bottom-feeder with a thick-lipped mouth and rounded body.",
+        "img": "Mullet_locked.png"
+    },
+    "Sea Star": {
+        "name": "Sea Star",
+        "desc": "A creature with five vibrant arms radiating from its center.",
+        "img": "Sea_Star_locked.png"
+    },
+    "Cod": {
+        "name": "Cod",
+        "desc": "A large white fish with spotted patterns and three dorsal fins.",
+        "img": "Cod_locked.png"
+    },
+    "Crab": {
+        "name": "Crab",
+        "desc": "A hard-shelled with eight legs and powerful claws.",
+        "img": "Crab_locked.png"
+    },
+    "Chinook Salmon": {
+        "name": "Chinook Salmon",
+        "desc": "A streamlined, torpedo-shaped fish with small fins.",
+        "img": "Chinook_Salmon_locked.png"
+    },
+    "Amberjack": {
+        "name": "Amberjack",
+        "desc": "A sleek fish with golden horizontal stripes along its body.",
+        "img": "Amberjack_locked.png"
+    },
+    "Clownfish": {
+        "name": "Clownfish",
+        "desc": "A vibrant orange fish with bold white and black stripes.",
+        "img": "Clownfish_locked.png"
+    },
+    "Bluefin Tuna": {
+        "name": "Bluefin Tuna",
+        "desc": "A massive fish with deep blue coloring and a torpedo-shaped body.",
+        "img": "Bluefin_Tuna_locked.png"
+    },
+    "Pufferfish": {
+        "name": "Pufferfish",
+        "desc": "A round fish covered in sharp spines that inflates.",
+        "img": "Pufferfish_locked.png"
+    },
+    "Octopus": {
+        "name": "Octopus",
+        "desc": "A soft-bodied creature with eight flexible tentacles and spots.",
+        "img": "Octopus_locked.png"
+    },
+    "Giant Trevally": {
+        "name": "Giant Trevally",
+        "desc": "A powerful fish with a sleek metallic body and large fins.",
+        "img": "Giant_Trevally_locked.png"
+    },
+    "Great White Shark": {
+        "name": "Great White Shark",
+        "desc": "A massive predator with grey coloring and white belly.",
+        "img": "Great_White_Shark_locked.png"
+    },
+    "Flying Fish": {
+        "name": "Flying Fish",
+        "desc": "A streamlined fish with enlarged pectoral fins like wings.",
+        "img": "Flying_Fish_locked.png"
+    },
+    "Sea Turtle": {
+        "name": "Sea Turtle",
+        "desc": "An ancient reptile with a hard shell and four flippers.",
+        "img": "Sea_Turtle_locked.png"
+    },
+    "Barracuda": {
+        "name": "Barracuda",
+        "desc": "A sleek predator with sharp teeth and a silvery body.",
+        "img": "Barracuda_locked.png"
+    },
+    "Colossal Squid": {
+        "name": "Colossal Squid",
+        "desc": "A massive deep-sea creature with enormous tentacles.",
+        "img": "Colossal_Squid_locked.png"
+    },
+    "Orca": {
+        "name": "Orca",
+        "desc": "A massive black and white marine mammal.",
+        "img": "Orca_locked.png"
+    },
+    "Blue Whale": {
+        "name": "Blue Whale",
+        "desc": "An enormous blue-grey creature, the largest animal to exist.",
+        "img": "Blue_Whale_locked.png"
+    },
+    "Meme Fish": {
+        "name": "Meme Fish",
+        "desc": "Legend said this mythical creature was swim in the abyss.",
+        "img": "Meme_Fish_locked.png"
+    }
+}
