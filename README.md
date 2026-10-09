@@ -20,7 +20,7 @@ A Pygame fishing mini-game built to compare **static difficulty** (EASY/MEDIUM/H
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/TWFILM/Adaptive-Difficulty-Fishing.git
+     git clone https://github.com/DaliceZ/Adaptive-Difficulty-Fishing.git
      cd Adaptive-Difficulty-Fishing
      ```
 
